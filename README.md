@@ -12,5 +12,4 @@ Esse incrível relógio analógico utiliza apenas html e css para funcionar.
 <h3>Imagens do projeto:</h3>
 <img width="400px" src="https://i.imgur.com/yoRDQkl.png" alt="imagem do relogio" >
 <br>
-<h3>o projeto pode ser encontrado em:</h3>
-https://sorayaribeiro.github.io/ClockAnalogic/
+
